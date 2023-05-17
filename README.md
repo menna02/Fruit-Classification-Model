@@ -1,5 +1,5 @@
 # FruitClassification
-## This repository contains a Fruit Classification project implemented using a Convolutional Neural Network (CNN) in Python.
+## This repository contains a Convolutional Neural Network (CNN) Model created using Python.
 ## The project aims to classify fruits and vegetables images into 36 classes :
 The CNN model is trained on a dataset of over 2800 images of fruits and achieves an accuracy of 90% on the validation set
 
